@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rothste
+- 👋 Hi, I’m @Rothste and 18 years old.
 - 👀 I’m interested in Coding websites or making Games 
 - 🌱 I’m currently learning HTML!
 - 💞️ I’m looking to collaborate on someone

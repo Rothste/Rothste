@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Rothste and 18 years old.
-- 👀 I’m interested in Coding websites or making Games 
-- 🌱 I’m currently learning HTML!
-- 💞️ I’m looking to collaborate on someone
-- 📫 How to reach me discord : rothsteinxz or https://guns.lol/roth
+- 👋 Hi, I’m @Rothste and 18 years old. (Loves Cat)
+- 👀 I’m interested in playing games
+- 💞️ I look up at the sky to see how beautiful it is
+- 📫 How to reach me on discord : rothsteinxz
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I am Single :)
+- ⚡ Fun fact: I love Pixeeellll GAmeEs
 
 <!---
 Rothste/Rothste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
